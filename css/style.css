@@ -1,0 +1,7 @@
+.container-fluid{
+  position: relative;
+  margin: 1%;
+  padding: 1%;
+  background-color: aqua;
+  background-size: 300px 100px;
+}
